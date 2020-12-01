@@ -1,1 +1,2 @@
-# Iran_Stock_prediction
+# Stock Prediction
+Dats gathered from http://www.tsetmc.com
